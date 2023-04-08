@@ -1,0 +1,122 @@
+[
+    {
+       "name":"Morumbi",
+       "average_home_value":1500000
+    },
+    {
+       "name":"Moema",
+       "average_home_value":1300000
+    },
+    {
+       "name":"Jardim Paulista",
+       "average_home_value":1200000
+    },
+    {
+       "name":"Itaim Bibi",
+       "average_home_value":1100000
+    },
+    {
+       "name":"Vila Madalena",
+       "average_home_value":1000000
+    },
+    {
+       "name":"Pinheiros",
+       "average_home_value":950000
+    },
+    {
+       "name":"Perdizes",
+       "average_home_value":900000
+    },
+    {
+       "name":"Vila Mariana",
+       "average_home_value":850000
+    },
+    {
+       "name":"Lapa",
+       "average_home_value":800000
+    },
+    {
+       "name":"Santo Amaro",
+       "average_home_value":750000
+    },
+    {
+       "name":"Tatuap\u00e9",
+       "average_home_value":700000
+    },
+    {
+       "name":"Mooca",
+       "average_home_value":650000
+    },
+    {
+       "name":"Campo Belo",
+       "average_home_value":600000
+    },
+    {
+       "name":"Higien\u00f3polis",
+       "average_home_value":550000
+    },
+    {
+       "name":"Santana",
+       "average_home_value":500000
+    },
+    {
+       "name":"Brooklin",
+       "average_home_value":450000
+    },
+    {
+       "name":"Cambuci",
+       "average_home_value":400000
+    },
+    {
+       "name":"Aclima\u00e7\u00e3o",
+       "average_home_value":375000
+    },
+    {
+       "name":"Vila Ol\u00edmpia",
+       "average_home_value":350000
+    },
+    {
+       "name":"Butant\u00e3",
+       "average_home_value":325000
+    },
+    {
+       "name":"Casa Verde",
+       "average_home_value":300000
+    },
+    {
+       "name":"Freguesia do \u00d3",
+       "average_home_value":275000
+    },
+    {
+       "name":"Jardim Am\u00e9rica",
+       "average_home_value":250000
+    },
+    {
+       "name":"Jardins",
+       "average_home_value":225000
+    },
+    {
+       "name":"Ipiranga",
+       "average_home_value":200000
+    },
+    {
+       "name":"Br\u00e1s",
+       "average_home_value":175000
+    },
+    {
+       "name":"S\u00e3o Mateus",
+       "average_home_value":150000
+    },
+    {
+       "name":"Vila Prudente",
+       "average_home_value":125000
+    },
+    {
+       "name":"Cidade Tiradentes",
+       "average_home_value":100000
+    },
+    {
+       "name":"Jabaquara",
+       "average_home_value":75000
+    }
+ ]
