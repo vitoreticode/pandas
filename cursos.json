@@ -1,0 +1,23 @@
+{
+    "Cursos":{
+        "0": "Python",
+        "1": "Pandas",
+        "2": "Spark",
+        "3": "JavaScript",
+        "4": "SQL"
+    },
+    "Alunos":{
+        "0": ["Pedro", "Cicero", "Andrea", "Maria"],
+        "1": ["Felipe", "Amanda", "Maria"],
+        "2": ["José", "Tais", "Rodrigo", "Maria"],
+        "3": ["Sergio", "Alisson", "Jorge", "Maria"],
+        "4": ["Pedro", "Maria"]
+    },
+    "Duracao_Em_Dias":{
+        "0": "10",
+        "1": "10",
+        "2": "15",
+        "3": "12",
+        "4": "14"
+    }
+}
